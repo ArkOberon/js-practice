@@ -5,4 +5,7 @@ let cliente = "pedro"
 
 cliente = "cancel"
 
+let animal
+
 console.log(cliente)
+console.log(animal)
